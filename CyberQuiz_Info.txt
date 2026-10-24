@@ -1,0 +1,59 @@
+CYBERQUIZ – CYBERSECURITY QUIZ PLATFORM
+=======================================
+
+About CyberQuiz
+---------------
+CyberQuiz is an online cybersecurity quiz platform designed to help students,
+cybersecurity enthusiasts, and learners test and improve their cybersecurity
+knowledge through quizzes.
+
+Live Quiz Portal
+----------------
+https://quiz.vci-llp.com
+
+About Cybersecurity
+-------------------
+Cybersecurity is the practice of protecting computers, networks, applications,
+systems, and digital information from cyber threats and unauthorized access.
+
+Key areas of cybersecurity include:
+- Ethical Hacking
+- Network Security
+- Web Application Security
+- Digital Forensics
+- Vulnerability Assessment and Penetration Testing (VAPT)
+- Security Awareness
+- Incident Response and Threat Analysis
+
+About Vici Cyber Infotech LLP
+-----------------------------
+Vici Cyber Infotech LLP is a cybersecurity and IT training and services company
+focused on cybersecurity education, technical skill development, and security
+awareness.
+
+Our areas of focus include:
+- Cybersecurity Training
+- Ethical Hacking Education
+- Vulnerability Assessment and Penetration Testing (VAPT)
+- Security Auditing
+- Cybersecurity Awareness and Phishing Simulations
+- Practical, hands-on cybersecurity learning
+
+Project Objective
+-----------------
+CyberQuiz aims to provide learners with a platform to assess their cybersecurity
+knowledge, strengthen their understanding of security concepts, and develop
+an interest in cybersecurity.
+
+Access the Platform
+-------------------
+Live portal: https://quiz.vci-llp.com
+Company website: https://vci-llp.com
+
+Disclaimer
+----------
+CyberQuiz is intended for educational purposes and cybersecurity awareness.
+Cybersecurity techniques should be used ethically and only in authorized
+environments.
+
+© Vici Cyber Infotech LLP. All rights reserved.
